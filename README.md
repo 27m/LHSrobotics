@@ -1,2 +1,2 @@
 # **LHSrobotics**
-*repository for robotics testing *
+*repository for robotics testing*
